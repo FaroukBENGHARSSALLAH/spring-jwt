@@ -18,6 +18,6 @@ how to use,
 - 3 GET https://spring-jwt-dev.herokuapp.com/futures {authorisation_headr, jwt}  to get futures list
 - 4 GET https://spring-jwt-dev.herokuapp.com/futures/{ticker} {authorisation_headr, jwt}  to get a future list
 
-You can visit the live version via [Spring-jwt](https://spring-jwt-dev.herokuapp.com//).
+You can use Postman using  the live version via [Spring-jwt](https://spring-jwt-dev.herokuapp.com//).
 
 
